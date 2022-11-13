@@ -26,7 +26,7 @@ And here is a screenshot of the game screen:
 
 <img width="600" alt="gameplay screen" src="https://user-images.githubusercontent.com/90758596/201542892-7368c15f-6c8e-4137-bb71-5975d887683a.png">
 
-My story choices were distributed into nodes, and the button choices were made with a prefab that I styled to look like the rest of the buttons. The final node from the story takes the player to the end screen:
+My story choices were distributed into nodes, and the button choices were made with a prefab that I styled to look like the rest of the buttons. The final node from the story takes the player to the end screen.
 
 
 
@@ -40,7 +40,7 @@ I think the next step here would be making the game more interesting, maybe addi
 
 ## Conclusion
 This project was definitely a learning process. I'm glad it worked out and I hope to learn more about Unity while working on the final!
-Here is a screen recording of the full gameplay:
+### Here is a [screen recording](https://youtu.be/ylleg47pZpE) of the full gameplay!
 
 
 ### Resources
