@@ -16,9 +16,17 @@ I ended up utilizing the adventure game template from the Github, and made chang
 The original template had a scrollbar, which I didn't need, so I deleted it. It also did not erase the previous story choices so I erased that from the ```gameplayManager``` script.
 I downloaded some Assets from the Unity asset store, such as ```UI elements``` and background music. 
 I added a background image but decided not to add sprites, as I didn't know where to fit them in the project.
+I also downloaded a font from Google Fonts and added it to my project.
+
 Here is the Starting screen:
 
-My story choices were distributed into nodes, with the final node taking the player to the end screen, which has two buttons:
+<img width="600" alt="starting screen" src="https://user-images.githubusercontent.com/90758596/201542889-d605f0b9-4f65-4fb8-87eb-766d432932ef.png">
+
+And here is a screenshot of the game screen:
+
+<img width="600" alt="gameplay screen" src="https://user-images.githubusercontent.com/90758596/201542892-7368c15f-6c8e-4137-bb71-5975d887683a.png">
+
+My story choices were distributed into nodes, and the button choices were made with a prefab that I styled to look like the rest of the buttons. The final node from the story takes the player to the end screen:
 
 
 
